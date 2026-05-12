@@ -1,14 +1,14 @@
 # RwvthrDev
 
-My name is Matheus, I'm Brazilian and I'm obsessed with technology. I'm taking the Integrated Technical Course to High School in Computer Science at the Federal Institute. I have knowledge of Network Infrastructure, Operational Systems, Computer Programming and Assembly. I'm very interested in Hardware: Desktop and Notebook Assembly, Diagnostics, etc. However, I don't neglect programming. I'm a Dev-Junior and currently. I'm focusing on Web development, mainly in the front-end part, but I also master back-end languages and data modeling.
+My name is Matheus, I'm Brazilian and I'm obsessed with technology. I'm taking the Integrated Technical Course <br> to High School in Computer Science at the Federal Institute. I have knowledge of Network Infrastructure, Operational Systems <br>, Computer Programming and Assembly. I'm very interested in Hardware: Desktop and Notebook Assembly, Diagnostics, etc. However, I don't neglect programming. I'm a Dev-Junior and currently <br>I'm focusing on Web development, mainly in the front-end part, but I also master back-end <br> languages and data modeling.
 
-## Social
+## Social:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rwvthrdev) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/rwvthrdev) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rwvthrdev@gmail.com)
 
 
-# Languages and Tools
+# Languages and Tools:
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://devdocs.io/css/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://devdocs.io/javascript/)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://devdocs.io/html/)
@@ -25,12 +25,19 @@ My name is Matheus, I'm Brazilian and I'm obsessed with technology. I'm taking t
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) 
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)]([https://devdocs.io/git/](https://git-scm.com/about#free-and-open-source))
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://devdocs.io/git/)
 [![VsCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![MIT](https://img.shields.io/badge/MIT-green?style=for-the-badge)](https://opensource.org/license/mit)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
+[![Hydra](https://img.shields.io/badge/Hydra-5B2E8C?style=for-the-badge&logo=kalilinux&logoColor=white)](https://github.com/vanhauser-thc/thc-hydra)
+[![Hashcat](https://img.shields.io/badge/Hashcat-2B5B84?style=for-the-badge&logo=hashcat&logoColor=white)](https://hashcat.net/hashcat/)
+[![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-3C6E47?style=for-the-badge&logo=openvpn&logoColor=white)](https://www.openwall.com/john/)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
+[![Open Hardware](https://img.shields.io/badge/Open%20Hardware-EF4136?style=for-the-badge&logo=oshwa&logoColor=white)](https://www.oshwa.org/)
 
-
-# GitHub Stats
+# GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=rwvthrdev&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=rwvthrdev&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rwvthrdev&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
