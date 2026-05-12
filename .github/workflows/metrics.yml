@@ -1,0 +1,19 @@
+name: Metrics - Conquistas
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Executa todo dia à meia-noite
+  workflow_dispatch:      # Permite executar manualmente
+
+jobs:
+  achievements:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: gh-metrics/metrics@latest
+        with:
+          filename: metrics.plugin.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""                         # Não inclui outros plugins
+          plugin_achievements: yes         # Ativa o plugin de conquistas
+          # Opções:
+          # plugin_achievements_threshold: C   # Filtra por rank (S, A, B, C ou X)
+          # plugin_achievements_limit: 6       # Limita quantas conquistas mostrar (0 = sem limite)
