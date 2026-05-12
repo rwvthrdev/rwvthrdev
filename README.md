@@ -7,23 +7,6 @@ My name is Matheus, I'm Brazilian and I'm obsessed with technology. I'm taking t
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/rwvthrdev) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rwvthrdev@gmail.com)
 
-## GitHub
-
-
-
-
-
-<a href="https://github.com/rwvthrdev?tab=followers">
-        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rwvthrdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-        </a>
-
-<a href="https://github.com/rwvthrdev?tab=repositories">
-    <img alt="repositories" title="Meus repositórios no Github" src="https://custom-icon-badges.demolab.com/badge/Reposit%C3%B3rios-6A0DAD.svg?style=for-the-badge&logo=repo&logoColor=white&labelColor=4B0082"/></a>
-
-<a href="https://github.com/rwvthrdev?tab=stars">
-    <img alt="stars" title="Estrelas que recebi" src="https://custom-icon-badges.demolab.com/github/stars/rwvthrdev?color=DAA520&labelColor=B8860B&style=for-the-badge&logo=star&label=Stars&logoColor=white"/></a>
-
-
 
 # Languages and Tools:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -50,4 +33,14 @@ My name is Matheus, I'm Brazilian and I'm obsessed with technology. I'm taking t
 ![](https://streak-stats.demolab.com/?user=rwvthrdev&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rwvthrdev&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## GitHub
+
+<a href="https://github.com/rwvthrdev?tab=followers">
+        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rwvthrdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+        </a>
+
+<a href="https://github.com/rwvthrdev?tab=repositories">
+    <img alt="repositories" title="Meus repositórios no Github" src="https://custom-icon-badges.demolab.com/badge/Reposit%C3%B3rios-6A0DAD.svg?style=for-the-badge&logo=repo&logoColor=white&labelColor=4B0082"/></a>
+
+<a href="https://github.com/rwvthrdev?tab=stars">
+    <img alt="stars" title="Estrelas que recebi" src="https://custom-icon-badges.demolab.com/github/stars/rwvthrdev?color=DAA520&labelColor=B8860B&style=for-the-badge&logo=star&label=Stars&logoColor=white"/></a>
