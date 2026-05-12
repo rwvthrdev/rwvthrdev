@@ -54,6 +54,9 @@ My name is Matheus, I'm Brazilian and I'm obsessed with technology. I'm taking t
 <a href="https://github.com/rwvthrdev?tab=stars">
     <img alt="stars" title="Estrelas que recebi" src="https://custom-icon-badges.demolab.com/github/stars/rwvthrdev?color=DAA520&labelColor=B8860B&style=for-the-badge&logo=star&label=Stars&logoColor=white"/></a>
 
+## 🏆 Minhas Conquistas no GitHub
+
+![Minhas Conquistas](https://raw.githubusercontent.com/rwvthrdev/rwvthrdev/master/metrics.plugin.achievements.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rwvthrdev/rwvthrdev/output/snake-dark.svg">
