@@ -8,7 +8,7 @@ My name is Matheus, I'm Brazilian and I'm obsessed with technology. I'm taking t
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rwvthrdev@gmail.com)
 <p align="left">
     <a href="https://github.com/rwvthrdev?tab=followers">
-        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rwvthrdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
 # Languages and Tools:
