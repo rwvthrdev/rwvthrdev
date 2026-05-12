@@ -48,7 +48,7 @@ My name is Matheus, I'm Brazilian and I'm obsessed with technology. I'm taking t
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rwvthrdev/SEU-USUARIO/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rwvthrdev/SEU-USUARIO/output/snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/rwvthrdev/SEU-USUARIO/output/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rwvthrdev/rwvthrdev/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rwvthrdev/rwvthrdev/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/rwvthrdev/rwvthrdev/output/snake.svg">
 </picture>
