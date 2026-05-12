@@ -56,7 +56,7 @@ My name is Matheus, I'm Brazilian and I'm obsessed with technology. I'm taking t
 
 ## 🏆 Minhas Conquistas no GitHub
 
-![Minhas Conquistas](https://raw.githubusercontent.com/rwvthrdev/rwvthrdev/master/metrics.plugin.achievements.svg)
+![Metrics](https://metrics.lecoq.io/rwvthrdev?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rwvthrdev/rwvthrdev/output/snake-dark.svg">
