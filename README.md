@@ -1,9 +1,6 @@
-# About Me:
+# RwvthrDev:
 
-My name is Matheus, I'm Brazilian and I'm obsessed with technology. I'm taking the Integrated Technical Course <br> to High School in Computer Science at the Federal Institute. I have knowledge of Network Infrastructure, Operational Systems <br>, Computer Programming and Assembly. I'm very interested in Hardware: Desktop and Notebook Assembly, Diagnostics, etc. However, I don't neglect programming. I'm a Dev-Junior and currently <br>I'm focusing on Web development, mainly in the front-end part, but I also master back-end <br> languages and data modeling. (EN)
-
-Me chamo Matheus, sou brasileiro e sou fissurado pela área da tecnologia. Curso o Curso Técnico Integrado <br>ao Ensino Médio em Informática no Instituto Federal. Tenho conhecimento em Infraestrutura de Redes, Sistemas <br>Operacionais, Programação e Montagem de Computadores. Me interesso bastante por Hardware: Montagem de<br>Desktops e Notebooks, Diagnóstico, etc. Todavia, não deixo de lado a programação. Sou um Dev-Júnior e  atualmente <br>estou focando no desenvolvimento Web, principalmente na parte do front-end, porém também domino linguagens de<br> back-end e modelagem de dados. (PT-BR)
-
+My name is Matheus, I'm Brazilian and I'm obsessed with technology. I'm taking the Integrated Technical Course <br> to High School in Computer Science at the Federal Institute. I have knowledge of Network Infrastructure, Operational Systems <br>, Computer Programming and Assembly. I'm very interested in Hardware: Desktop and Notebook Assembly, Diagnostics, etc. However, I don't neglect programming. I'm a Dev-Junior and currently <br>I'm focusing on Web development, mainly in the front-end part, but I also master back-end <br> languages and data modeling.
 
 ## Social:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rwvthrdev) 
